@@ -1,0 +1,16 @@
+{
+  "name": "auto-transfer-solana",
+  "version": "1.0.0",
+  "description": "Automate SOL token transfers on the Solana Devnet.",
+  "main": "auto-transfer.js",
+  "scripts": {
+    "start": "node auto-transfer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "dotenv": "^16.3.1",
+    "bs58": "^5.0.1"
+  }
+}
