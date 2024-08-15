@@ -21,6 +21,15 @@ bash
 Copy code
 sudo apt update
 sudo apt install git
+ نصب screen
+ابتدا مطمئن شوید که ابزار screen بر روی سیستم شما نصب شده است. برای نصب آن در اوبونتو، از دستور زیر استفاده کنید:
+
+bash
+Copy code
+sudo apt update
+sudo apt install screen
+
+
 2. کلون کردن مخزن از GitHub
 کلون کردن مخزن:
 آدرس URL مخزن GitHub خود را پیدا کنید و با استفاده از دستور git clone مخزن را بر روی سیستم خود کلون کنید. به عنوان مثال:
